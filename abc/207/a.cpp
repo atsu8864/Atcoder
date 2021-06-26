@@ -17,10 +17,11 @@ int main() {
     for (int i = 0; i < 3; ++i){
         cin >> a[i];
     }
-    s.
+    sort(a.begin(), a.end());
 
 
-    int ans = max(a, max(b, c)) + min(c, max(a, b));
+    int ans = a[2] + a[1];
+    cout << ans << endl;
 
 
     return 0;
