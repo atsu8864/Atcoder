@@ -25,22 +25,21 @@ echo "Create files."
 template=$(cat <<EOS
 #include <bits/stdc++.h>
 using namespace std;
-
-#define rep(i, n) for(int i = 0; i < (int)(n); ++i)
+#include <atcoder/all>
+using namespace  atcoder;
+#define rep(i, n) for (int i = 0; i < (n); ++i)
 using ll = long long;
-typedef pair<int,int> P;
-
-const int INF = 1001001001;
+using P = pair<int,int>;
 const long double PI = (acos(-1));
 const int MOD = 1e9+7;
-const int vx[4] = {0,1,0,-1};
-const int vy[4] = {1,0,-1,0};
+
 
 int main() {
 
 
     return 0;
 }
+
 EOS
 )
 
