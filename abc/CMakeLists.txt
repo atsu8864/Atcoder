@@ -23,3 +23,11 @@ add_executable(205_c 205/c.cpp)
 add_executable(205_d 205/d.cpp)
 add_executable(205_e 205/e.cpp)
 add_executable(205_f 205/f.cpp)
+
+# Contest abc 204
+add_executable(204_a 204/a.cpp)
+add_executable(204_b 204/b.cpp)
+add_executable(204_c 204/c.cpp)
+add_executable(204_d 204/d.cpp)
+add_executable(204_e 204/e.cpp)
+add_executable(204_f 204/f.cpp)
