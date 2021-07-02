@@ -42,3 +42,11 @@ add_executable(203_c 203/c.cpp)
 add_executable(203_d 203/d.cpp)
 add_executable(203_e 203/e.cpp)
 add_executable(203_f 203/f.cpp)
+
+# Contest abc 202
+add_executable(202_a 202/a.cpp)
+add_executable(202_b 202/b.cpp)
+add_executable(202_c 202/c.cpp)
+add_executable(202_d 202/d.cpp)
+add_executable(202_e 202/e.cpp)
+add_executable(202_f 202/f.cpp)
