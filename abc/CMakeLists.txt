@@ -1,3 +1,6 @@
+cmake_minimum_required(VERSION 3.19)
+project(競技プログラミング)
+set(CMAKE_CXX_STANDARD 17)
 
 # Contest abc 206
 add_executable(206_a 206/a.cpp)
@@ -31,3 +34,11 @@ add_executable(204_c 204/c.cpp)
 add_executable(204_d 204/d.cpp)
 add_executable(204_e 204/e.cpp)
 add_executable(204_f 204/f.cpp)
+
+# Contest abc 203
+add_executable(203_a 203/a.cpp)
+add_executable(203_b 203/b.cpp)
+add_executable(203_c 203/c.cpp)
+add_executable(203_d 203/d.cpp)
+add_executable(203_e 203/e.cpp)
+add_executable(203_f 203/f.cpp)
