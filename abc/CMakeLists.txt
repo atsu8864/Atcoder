@@ -58,3 +58,11 @@ add_executable(208_c 208/c.cpp)
 add_executable(208_d 208/d.cpp)
 add_executable(208_e 208/e.cpp)
 add_executable(208_f 208/f.cpp)
+
+#abs atcoder beginners selection
+add_executable(practiceA abs/practiceA.cpp)
+add_executable(product abs/product.cpp)
+add_executable(placing_marbles abs/placing_marbles.cpp)
+add_executable(shift_only abs/shift_only.cpp)
+add_executable(coins abs/coins.cpp)
+
