@@ -66,3 +66,11 @@ add_executable(placing_marbles abs/placing_marbles.cpp)
 add_executable(shift_only abs/shift_only.cpp)
 add_executable(coins abs/coins.cpp)
 
+
+# Contest abc 210
+add_executable(210_a 210/a.cpp)
+add_executable(210_b 210/b.cpp)
+add_executable(210_c 210/c.cpp)
+add_executable(210_d 210/d.cpp)
+add_executable(210_e 210/e.cpp)
+add_executable(210_f 210/f.cpp)
