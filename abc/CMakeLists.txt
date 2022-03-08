@@ -28,12 +28,12 @@ set(CMAKE_CXX_STANDARD 17)
 #add_executable(205_f 205/f.cpp)
 
 # Contest abc 204
-add_executable(204_a 204/a.cpp)
-add_executable(204_b 204/b.cpp)
-add_executable(204_c 204/c.cpp)
-add_executable(204_d 204/d.cpp)
-add_executable(204_e 204/e.cpp)
-add_executable(204_f 204/f.cpp)
+#add_executable(204_a 204/a.cpp)
+#add_executable(204_b 204/b.cpp)
+#add_executable(204_c 204/c.cpp)
+#add_executable(204_d 204/d.cpp)
+#add_executable(204_e 204/e.cpp)
+#add_executable(204_f 204/f.cpp)
 
 ## Contest abc 203
 #add_executable(203_a 203/a.cpp)
@@ -74,3 +74,11 @@ add_executable(210_c 210/c.cpp)
 add_executable(210_d 210/d.cpp)
 add_executable(210_e 210/e.cpp)
 add_executable(210_f 210/f.cpp)
+
+# Contest abc 242
+add_executable(242_a 242/a.cpp)
+add_executable(242_b 242/b.cpp)
+add_executable(242_c 242/c.cpp)
+add_executable(242_d 242/d.cpp)
+add_executable(242_e 242/e.cpp)
+add_executable(242_f 242/f.cpp)
