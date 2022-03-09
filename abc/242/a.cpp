@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
-#include <atcoder/all>
-using namespace  atcoder;
+
+
 #define rep(i, n) for (long long i = 0; i < (n); ++i)
 using ll = long long;
 using P = pair<int,int>;
@@ -17,7 +17,7 @@ int main() {
         cout << 1 << endl;
         return 0;
     }else{
-        printf("%.10f", (b-a)/c);
+        printf("%.10d", (b-a)/c);
     }
     return 0;
 }

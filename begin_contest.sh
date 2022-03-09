@@ -25,8 +25,6 @@ echo "Create files."
 template=$(cat <<EOS
 #include <bits/stdc++.h>
 using namespace std;
-#include <atcoder/all>
-using namespace  atcoder;
 #define rep(i, n) for (long long i = 0; i < (n); ++i)
 using ll = long long;
 using P = pair<int,int>;
@@ -43,7 +41,7 @@ int main() {
 EOS
 )
 
-filelist=("a" "b" "c" "d" "e" "f")
+filelist=("a" "b" "c" "d" "e" "f" "g" "h")
 
 for file in ${filelist[@]}
 do
