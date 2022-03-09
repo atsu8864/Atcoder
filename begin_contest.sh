@@ -23,7 +23,10 @@ echo "Create files."
 
 # cpp file template
 template=$(cat <<EOS
-#include <bits/stdc++.h>
+//#include <bits/stdc++.h>
+#include <vector>
+#include<iostream>
+#include<math.h>
 using namespace std;
 #define rep(i, n) for (long long i = 0; i < (n); ++i)
 using ll = long long;
