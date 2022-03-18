@@ -18,7 +18,10 @@
         "ranges": "cpp",
         "span": "cpp",
         "regex": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "atomic": "cpp",
+        "ostream": "cpp",
+        "set": "cpp"
     },
     //"C_Cpp.default.cppStandard": "c++17",//追加
     "code-runner.executorMap": {"cpp": "cd $dir && g++ -std=c++17 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"},

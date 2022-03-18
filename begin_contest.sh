@@ -27,6 +27,7 @@ template=$(cat <<EOS
 #include <vector>
 #include<iostream>
 #include<math.h>
+#include<algorithm>
 using namespace std;
 #define rep(i, n) for (long long i = 0; i < (n); ++i)
 using ll = long long;
