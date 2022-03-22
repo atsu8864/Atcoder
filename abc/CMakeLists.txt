@@ -102,3 +102,23 @@ add_executable(243_e 243/e.cpp)
 add_executable(243_f 243/f.cpp)
 add_executable(243_g 243/g.cpp)
 add_executable(243_h 243/h.cpp)
+
+# Contest abc 240
+add_executable(240_a 240/a.cpp)
+add_executable(240_b 240/b.cpp)
+add_executable(240_c 240/c.cpp)
+add_executable(240_d 240/d.cpp)
+add_executable(240_e 240/e.cpp)
+add_executable(240_f 240/f.cpp)
+add_executable(240_g 240/g.cpp)
+add_executable(240_h 240/h.cpp)
+
+# Contest abc 244
+add_executable(244_a 244/a.cpp)
+add_executable(244_b 244/b.cpp)
+add_executable(244_c 244/c.cpp)
+add_executable(244_d 244/d.cpp)
+add_executable(244_e 244/e.cpp)
+add_executable(244_f 244/f.cpp)
+add_executable(244_g 244/g.cpp)
+add_executable(244_h 244/h.cpp)
